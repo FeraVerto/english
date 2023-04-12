@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T11:11:13.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="gmiPFkSeUf8g0qrACEWN" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-12T11:20:57.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="kVVEVe8UyglmWbA9ZHjC" version="21.1.5" type="github">
   <diagram name="Страница 1" id="HaqHr7datS-S6JQ_34eg">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,12 +66,12 @@
         </mxCell>
         <UserObject label="verb + -ed" placeholders="1" name="Variable" id="sSVKV6Z9X-DRzIi5GmWs-45">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=14;" parent="sSVKV6Z9X-DRzIi5GmWs-29" vertex="1">
-            <mxGeometry x="20" y="140" width="75" height="20" as="geometry" />
+            <mxGeometry x="20" y="100" width="75" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;font style=&quot;font-size: 10px;&quot;&gt;неправ. глаголы: форма прошедшего времени&lt;/font&gt;" placeholders="1" name="Variable" id="sSVKV6Z9X-DRzIi5GmWs-47">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=17;" parent="sSVKV6Z9X-DRzIi5GmWs-29" vertex="1">
-            <mxGeometry x="20" y="150" width="195" height="40" as="geometry" />
+            <mxGeometry x="20" y="160" width="195" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Произошло и завершилось в прошлом" placeholders="1" name="Variable" id="sSVKV6Z9X-DRzIi5GmWs-54">
@@ -86,12 +86,12 @@
         </UserObject>
         <UserObject label="?did" placeholders="1" name="Variable" id="KWtOq8d0CYG3wRhczN9--9">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=14;" vertex="1" parent="sSVKV6Z9X-DRzIi5GmWs-29">
-            <mxGeometry x="20" y="100" width="75" height="20" as="geometry" />
+            <mxGeometry x="20" y="120" width="75" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="- didn&#39;t" placeholders="1" name="Variable" id="KWtOq8d0CYG3wRhczN9--15">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=14;" vertex="1" parent="sSVKV6Z9X-DRzIi5GmWs-29">
-            <mxGeometry x="20" y="120" width="75" height="20" as="geometry" />
+            <mxGeometry x="20" y="140" width="75" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="sSVKV6Z9X-DRzIi5GmWs-30" value="Present Simple" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -102,35 +102,35 @@
         </mxCell>
         <UserObject label="I/you/we/they + verb" placeholders="1" name="Variable" id="sSVKV6Z9X-DRzIi5GmWs-52">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#FF0516;fontStyle=1" parent="sSVKV6Z9X-DRzIi5GmWs-30" vertex="1">
-            <mxGeometry x="10" y="150" width="120" height="20" as="geometry" />
+            <mxGeometry x="10" y="100" width="120" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="he/she/it + verb(+s)" placeholders="1" name="Variable" id="sSVKV6Z9X-DRzIi5GmWs-53">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#FF0516;" parent="sSVKV6Z9X-DRzIi5GmWs-30" vertex="1">
-            <mxGeometry x="140" y="150" width="130" height="20" as="geometry" />
+            <mxGeometry x="140" y="100" width="130" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Происходит в настоящее время, повторяется с регулярностью, общее правило или факт, существующий в настоящее время" placeholders="1" name="Variable" id="sSVKV6Z9X-DRzIi5GmWs-56">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="sSVKV6Z9X-DRzIi5GmWs-30" vertex="1">
-            <mxGeometry x="-5" y="170" width="270" height="50" as="geometry" />
+            <mxGeometry y="170" width="265" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="?do" placeholders="1" name="Variable" id="KWtOq8d0CYG3wRhczN9--10">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=14;" vertex="1" parent="sSVKV6Z9X-DRzIi5GmWs-30">
-            <mxGeometry x="10" y="100" width="75" height="20" as="geometry" />
+            <mxGeometry x="10" y="120" width="75" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="- don&#39;t, doesn&#39;t" placeholders="1" name="Variable" id="KWtOq8d0CYG3wRhczN9--13">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=14;" vertex="1" parent="sSVKV6Z9X-DRzIi5GmWs-30">
-            <mxGeometry x="10" y="120" width="120" height="20" as="geometry" />
+            <mxGeometry x="10" y="140" width="120" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="sSVKV6Z9X-DRzIi5GmWs-31" value="Future Simple" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="220" width="260" height="220" as="geometry" />
         </mxCell>
         <UserObject label="sub + will + verb" placeholders="1" name="Variable" id="sSVKV6Z9X-DRzIi5GmWs-57">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#FF0516;fontStyle=1" parent="sSVKV6Z9X-DRzIi5GmWs-31" vertex="1">
-            <mxGeometry y="140" width="120" height="20" as="geometry" />
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#FF0516;fontStyle=1;fontSize=14;" parent="sSVKV6Z9X-DRzIi5GmWs-31" vertex="1">
+            <mxGeometry x="10" y="100" width="120" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="sSVKV6Z9X-DRzIi5GmWs-58" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="sSVKV6Z9X-DRzIi5GmWs-31" vertex="1">
@@ -156,13 +156,13 @@
           </mxCell>
         </UserObject>
         <UserObject label="?will" placeholders="1" name="Variable" id="KWtOq8d0CYG3wRhczN9--11">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#FF0516;fontStyle=1" vertex="1" parent="sSVKV6Z9X-DRzIi5GmWs-31">
-            <mxGeometry y="100" width="50" height="20" as="geometry" />
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#FF0516;fontStyle=1;fontSize=14;" vertex="1" parent="sSVKV6Z9X-DRzIi5GmWs-31">
+            <mxGeometry y="120" width="50" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="- will not" placeholders="1" name="Variable" id="KWtOq8d0CYG3wRhczN9--14">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#FF0516;fontStyle=1" vertex="1" parent="sSVKV6Z9X-DRzIi5GmWs-31">
-            <mxGeometry y="120" width="70" height="20" as="geometry" />
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontColor=#FF0516;fontStyle=1;fontSize=14;" vertex="1" parent="sSVKV6Z9X-DRzIi5GmWs-31">
+            <mxGeometry x="10" y="140" width="70" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="sSVKV6Z9X-DRzIi5GmWs-49" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -174,6 +174,51 @@
         <mxCell id="sSVKV6Z9X-DRzIi5GmWs-50" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="270" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="KWtOq8d0CYG3wRhczN9--17" value="Past Continuous" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="450" width="260" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="KWtOq8d0CYG3wRhczN9--18" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="KWtOq8d0CYG3wRhczN9--17">
+          <mxGeometry x="220" y="40" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KWtOq8d0CYG3wRhczN9--19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.375;exitY=0.729;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="KWtOq8d0CYG3wRhczN9--17" target="KWtOq8d0CYG3wRhczN9--18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="64.57999999999993" as="sourcePoint" />
+            <mxPoint x="200" y="64.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KWtOq8d0CYG3wRhczN9--20" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="KWtOq8d0CYG3wRhczN9--17">
+          <mxGeometry x="60" y="55" width="110" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="I/he/she/it + verb (+ing)" placeholders="1" name="Variable" id="KWtOq8d0CYG3wRhczN9--21">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=12;" vertex="1" parent="KWtOq8d0CYG3wRhczN9--17">
+            <mxGeometry x="10" y="140" width="140" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="происходило в определенный момент в прошлом и продолжалось в течение какого-то времени" placeholders="1" name="Variable" id="KWtOq8d0CYG3wRhczN9--23">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="KWtOq8d0CYG3wRhczN9--17">
+            <mxGeometry x="12.5" y="200" width="235" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="period" placeholders="1" name="Variable" id="KWtOq8d0CYG3wRhczN9--24">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="KWtOq8d0CYG3wRhczN9--17">
+            <mxGeometry x="40" y="30" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="?was/were" placeholders="1" name="Variable" id="KWtOq8d0CYG3wRhczN9--25">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=14;" vertex="1" parent="KWtOq8d0CYG3wRhczN9--17">
+            <mxGeometry x="20" y="100" width="75" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="- wasn&#39;t/weren&#39;t" placeholders="1" name="Variable" id="KWtOq8d0CYG3wRhczN9--26">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=14;" vertex="1" parent="KWtOq8d0CYG3wRhczN9--17">
+            <mxGeometry x="20" y="120" width="120" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="you/we/they + verb (+ing)" placeholders="1" name="Variable" id="KWtOq8d0CYG3wRhczN9--27">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=12;" vertex="1" parent="KWtOq8d0CYG3wRhczN9--17">
+            <mxGeometry x="10" y="160" width="170" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
