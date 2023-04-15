@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T15:16:15.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="d1VcQwsbhrB946YZPSHG" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-15T15:30:46.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="i9C7PdfXkPYelHJ1p6RD" version="21.1.7" type="github">
   <diagram name="Страница 1" id="HaqHr7datS-S6JQ_34eg">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -471,6 +471,44 @@
             <mxPoint x="330" y="280" as="sourcePoint" />
             <mxPoint x="560" y="280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="l9MGUr2wjyCZsJugG-DO-17" value="Past Prefect Continuous" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1010" width="260" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="l9MGUr2wjyCZsJugG-DO-18" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="l9MGUr2wjyCZsJugG-DO-17">
+          <mxGeometry x="220" y="40" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l9MGUr2wjyCZsJugG-DO-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="l9MGUr2wjyCZsJugG-DO-17" target="l9MGUr2wjyCZsJugG-DO-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="65" as="sourcePoint" />
+            <mxPoint x="200" y="64.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&amp;nbsp; sub + had been + verb(-ing)&amp;nbsp;" placeholders="1" name="Variable" id="l9MGUr2wjyCZsJugG-DO-20">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=12;labelBackgroundColor=#CCFFCC;labelBorderColor=default;" vertex="1" parent="l9MGUr2wjyCZsJugG-DO-17">
+            <mxGeometry x="10" y="100" width="250" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="длительные действия, которые начались до определенного момента в прошлом и продолжались до этого момента" placeholders="1" name="Variable" id="l9MGUr2wjyCZsJugG-DO-21">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="l9MGUr2wjyCZsJugG-DO-17">
+            <mxGeometry x="12.5" y="230" width="235" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="?had + sub + been + verb(-ing)" placeholders="1" name="Variable" id="l9MGUr2wjyCZsJugG-DO-23">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=12;" vertex="1" parent="l9MGUr2wjyCZsJugG-DO-17">
+            <mxGeometry x="7.5" y="140" width="182.5" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="- hadn&#39;t been + verb(-ing)" placeholders="1" name="Variable" id="l9MGUr2wjyCZsJugG-DO-24">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=12;" vertex="1" parent="l9MGUr2wjyCZsJugG-DO-17">
+            <mxGeometry x="7.5" y="160" width="162.5" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="l9MGUr2wjyCZsJugG-DO-25" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#e1d5e7;sketch=1;strokeColor=#9673a6;" vertex="1" parent="l9MGUr2wjyCZsJugG-DO-17">
+          <mxGeometry x="120" y="55" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l9MGUr2wjyCZsJugG-DO-26" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="l9MGUr2wjyCZsJugG-DO-17">
+          <mxGeometry x="62.5" y="55" width="57.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
