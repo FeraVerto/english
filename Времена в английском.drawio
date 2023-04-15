@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T14:55:49.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="aqMf438H_YQJFsOT8uEH" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-15T15:16:15.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="d1VcQwsbhrB946YZPSHG" version="21.1.7" type="github">
   <diagram name="Страница 1" id="HaqHr7datS-S6JQ_34eg">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -342,7 +342,7 @@
             <mxGeometry x="10" y="160" width="200" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="- will not" placeholders="1" name="Variable" id="KWtOq8d0CYG3wRhczN9--76">
+        <UserObject label="- will not (won&#39;t)" placeholders="1" name="Variable" id="KWtOq8d0CYG3wRhczN9--76">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=12;" parent="KWtOq8d0CYG3wRhczN9--53" vertex="1">
             <mxGeometry x="10" y="180" width="200" height="20" as="geometry" />
           </mxCell>
@@ -425,26 +425,47 @@
             <mxGeometry x="10" y="130" width="180" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="- has/have not" placeholders="1" name="Variable" id="l9MGUr2wjyCZsJugG-DO-5">
+        <UserObject label="-&amp;nbsp;haven&#39;t / hasn&#39;t" placeholders="1" name="Variable" id="l9MGUr2wjyCZsJugG-DO-15">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=12;" vertex="1" parent="KWtOq8d0CYG3wRhczN9--98">
-            <mxGeometry x="10" y="150" width="180" height="20" as="geometry" />
+            <mxGeometry x="10" y="150" width="120" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="KWtOq8d0CYG3wRhczN9--113" value="Future Perfect" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="710" width="275" height="290" as="geometry" />
         </mxCell>
         <mxCell id="KWtOq8d0CYG3wRhczN9--114" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="KWtOq8d0CYG3wRhczN9--113" vertex="1">
-          <mxGeometry x="121.25" y="40" width="32.5" height="65" as="geometry" />
+          <mxGeometry x="10" y="40" width="32.5" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="KWtOq8d0CYG3wRhczN9--115" value="" style="endArrow=classic;html=1;rounded=0;" parent="KWtOq8d0CYG3wRhczN9--113" edge="1">
+        <mxCell id="KWtOq8d0CYG3wRhczN9--115" value="" style="endArrow=classic;html=1;rounded=0;" parent="KWtOq8d0CYG3wRhczN9--113" edge="1" source="KWtOq8d0CYG3wRhczN9--114">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="27.5" y="72.5" as="sourcePoint" />
             <mxPoint x="257.5" y="72.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KWtOq8d0CYG3wRhczN9--116" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="KWtOq8d0CYG3wRhczN9--113" vertex="1">
-          <mxGeometry x="130" y="62.5" width="10" height="20" as="geometry" />
+          <mxGeometry x="90" y="62.5" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="l9MGUr2wjyCZsJugG-DO-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#e1d5e7;sketch=1;strokeColor=#9673a6;" vertex="1" parent="KWtOq8d0CYG3wRhczN9--113">
+          <mxGeometry x="150" y="62.5" width="57.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l9MGUr2wjyCZsJugG-DO-12" value="действие будет завершено к определенному моменту в будущем" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KWtOq8d0CYG3wRhczN9--113">
+          <mxGeometry x="10" y="240" width="260" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="&amp;nbsp;sub + will have + 3-я форма&amp;nbsp;" placeholders="1" name="Variable" id="l9MGUr2wjyCZsJugG-DO-13">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=12;labelBackgroundColor=#CCFFCC;labelBorderColor=default;" vertex="1" parent="KWtOq8d0CYG3wRhczN9--113">
+            <mxGeometry x="10" y="120" width="180" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="? will + sub + have + 3" placeholders="1" name="Variable" id="l9MGUr2wjyCZsJugG-DO-5">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=12;" vertex="1" parent="KWtOq8d0CYG3wRhczN9--113">
+            <mxGeometry x="10" y="140" width="180" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="- sub + will not (won&#39;t) have + 3-я форма" placeholders="1" name="Variable" id="l9MGUr2wjyCZsJugG-DO-14">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=12;" vertex="1" parent="KWtOq8d0CYG3wRhczN9--113">
+            <mxGeometry x="10" y="160" width="250" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="l9MGUr2wjyCZsJugG-DO-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="KWtOq8d0CYG3wRhczN9--46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="280" as="sourcePoint" />
