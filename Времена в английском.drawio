@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T12:03:53.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="lGSHbZxIQ80hr-Xbup9B" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T12:08:58.643Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="oRv8Srjr-9UIHtiARXkQ" version="21.1.7" type="github">
   <diagram name="Страница 1" id="HaqHr7datS-S6JQ_34eg">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -327,9 +327,9 @@
             <mxPoint x="250" y="71.04999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&amp;nbsp;sub + will + verb(-ing)&amp;nbsp;" placeholders="1" name="Variable" id="KWtOq8d0CYG3wRhczN9--74">
+        <UserObject label="&amp;nbsp;sub + will be + verb(-ing)&amp;nbsp;" placeholders="1" name="Variable" id="KWtOq8d0CYG3wRhczN9--74">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=12;labelBackgroundColor=#CCFFCC;labelBorderColor=default;" parent="KWtOq8d0CYG3wRhczN9--53" vertex="1">
-            <mxGeometry x="10" y="115" width="140" height="20" as="geometry" />
+            <mxGeometry x="10" y="115" width="160" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="? will + sub + be + verb(-ing)" placeholders="1" name="Variable" id="KWtOq8d0CYG3wRhczN9--75">
