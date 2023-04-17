@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T16:08:08.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OUwVMJ_0D5cNcALFxAYL" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T12:03:53.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="lGSHbZxIQ80hr-Xbup9B" version="21.1.7" type="github">
   <diagram name="Страница 1" id="HaqHr7datS-S6JQ_34eg">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,11 +77,6 @@
         <UserObject label="Произошло и завершилось в прошлом" placeholders="1" name="Variable" id="sSVKV6Z9X-DRzIi5GmWs-54">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="sSVKV6Z9X-DRzIi5GmWs-29" vertex="1">
             <mxGeometry x="12.5" y="200" width="235" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="moment" placeholders="1" name="Variable" id="sSVKV6Z9X-DRzIi5GmWs-55">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="sSVKV6Z9X-DRzIi5GmWs-29" vertex="1">
-            <mxGeometry x="25" y="30" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="? did" placeholders="1" name="Variable" id="KWtOq8d0CYG3wRhczN9--9">
@@ -543,6 +538,54 @@
         <UserObject label="-&amp;nbsp;haven&#39;t / hasn&#39;t" placeholders="1" name="Variable" id="l9MGUr2wjyCZsJugG-DO-35">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=12;" vertex="1" parent="l9MGUr2wjyCZsJugG-DO-28">
             <mxGeometry x="10" y="150" width="120" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="l9MGUr2wjyCZsJugG-DO-36" value="Future Perfect Continuous" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="592.5" y="1010" width="270" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="l9MGUr2wjyCZsJugG-DO-37" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="l9MGUr2wjyCZsJugG-DO-36">
+          <mxGeometry x="27.5" y="40" width="33.75" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="l9MGUr2wjyCZsJugG-DO-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="l9MGUr2wjyCZsJugG-DO-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="87.5" y="70" as="sourcePoint" />
+            <mxPoint x="257.5" y="72.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;text-align: left;&quot;&gt;используется для описания длительного действия, которое будет продолжаться до определенного момента в будущем&lt;br&gt;&lt;/div&gt;" placeholders="1" name="Variable" id="l9MGUr2wjyCZsJugG-DO-40">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="l9MGUr2wjyCZsJugG-DO-36">
+            <mxGeometry x="10" y="210" width="245" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&amp;nbsp;sub +&amp;nbsp;will have been&amp;nbsp;+ verb(-ing)&amp;nbsp;" placeholders="1" name="Variable" id="l9MGUr2wjyCZsJugG-DO-41">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=12;labelBackgroundColor=#CCFFCC;labelBorderColor=default;" vertex="1" parent="l9MGUr2wjyCZsJugG-DO-36">
+            <mxGeometry x="10" y="110" width="210" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="? will + sub + have + been + verb(-ing)" placeholders="1" name="Variable" id="l9MGUr2wjyCZsJugG-DO-42">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=12;" vertex="1" parent="l9MGUr2wjyCZsJugG-DO-36">
+            <mxGeometry x="10" y="130" width="230" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="- will not (won&#39;t)" placeholders="1" name="Variable" id="l9MGUr2wjyCZsJugG-DO-43">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontStyle=1;fontColor=#f43e10;fontSize=12;" vertex="1" parent="l9MGUr2wjyCZsJugG-DO-36">
+            <mxGeometry x="10" y="150" width="120" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="l9MGUr2wjyCZsJugG-DO-39" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="l9MGUr2wjyCZsJugG-DO-36">
+          <mxGeometry x="140" y="62.5" width="67.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l9MGUr2wjyCZsJugG-DO-45" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#e1d5e7;sketch=1;strokeColor=#9673a6;" vertex="1" parent="l9MGUr2wjyCZsJugG-DO-36">
+          <mxGeometry x="210" y="62.5" width="10" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="moment" placeholders="1" name="Variable" id="sSVKV6Z9X-DRzIi5GmWs-55">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="l9MGUr2wjyCZsJugG-DO-36" vertex="1">
+            <mxGeometry x="190" y="40" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="moment" placeholders="1" name="Variable" id="l9MGUr2wjyCZsJugG-DO-47">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="75" y="260" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
